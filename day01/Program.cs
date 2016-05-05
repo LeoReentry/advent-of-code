@@ -19,7 +19,7 @@ namespace day01
 					basement = true;
 				}
 			}
-	    Console.WriteLine("We have " + floor + " floors.");
+			Console.WriteLine ("We have " + floor + " floors.");
 
 		}
 	}
