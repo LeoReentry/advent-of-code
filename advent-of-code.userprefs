@@ -1,4 +1,4 @@
-﻿<Properties StartupItem="day04/day04.csproj">
+﻿<Properties StartupItem="day05/day05.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.Workbench ActiveDocument="day04/Program.cs">
     <Files>
