@@ -1,11 +1,13 @@
-﻿<Properties StartupItem="day05/day05.csproj">
+﻿<Properties StartupItem="day06/day06.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="day04/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="day06/Program.cs">
     <Files>
       <File FileName="day01/Program.cs" Line="1" Column="1" />
       <File FileName="day02/Program.cs" Line="1" Column="1" />
       <File FileName="day03/Program.cs" Line="1" Column="1" />
-      <File FileName="day04/Program.cs" Line="14" Column="39" />
+      <File FileName="day04/Program.cs" Line="25" Column="5" />
+      <File FileName="day05/Program.cs" Line="30" Column="69" />
+      <File FileName="day06/Program.cs" Line="14" Column="49" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

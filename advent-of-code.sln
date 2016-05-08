@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day04", "day04\day04.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day05", "day05\day05.csproj", "{C490FEE1-DC50-4B92-AED7-12D7A8CD6FBA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day06", "day06\day06.csproj", "{EC39FA25-753E-4AC7-8554-60532E4F8657}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -37,5 +39,9 @@ Global
 		{DEC8E7DE-269A-4200-BFDB-2362DE6F2607}.Debug|x86.Build.0 = Debug|x86
 		{DEC8E7DE-269A-4200-BFDB-2362DE6F2607}.Release|x86.ActiveCfg = Release|x86
 		{DEC8E7DE-269A-4200-BFDB-2362DE6F2607}.Release|x86.Build.0 = Release|x86
+		{EC39FA25-753E-4AC7-8554-60532E4F8657}.Debug|x86.ActiveCfg = Debug|x86
+		{EC39FA25-753E-4AC7-8554-60532E4F8657}.Debug|x86.Build.0 = Debug|x86
+		{EC39FA25-753E-4AC7-8554-60532E4F8657}.Release|x86.ActiveCfg = Release|x86
+		{EC39FA25-753E-4AC7-8554-60532E4F8657}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
