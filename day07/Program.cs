@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text.RegularExpressions;
 using System.Collections.Generic;
-
+using System.Linq;
 namespace day07
 {
     class MainClass
@@ -9,12 +9,16 @@ namespace day07
         public static Dictionary<string, Instruction> wires = new Dictionary<string, Instruction>();
         public static void Main(string[] args)
         {
-            Console.WriteLine("Start parsing.");
+            // Part 1
             parseData();
-            Console.WriteLine("Finished parsing.");
-            Console.WriteLine("Start extremely inefficient recursion.");
             ushort answer = evaluateData("a", 0);
-            Console.WriteLine("Yay, we're done. Answer is " + answer);
+            Console.WriteLine("Answer for part 1 is " + answer);
+            // Part 2
+            wires["b"].op1 = answer.ToString();
+            foreach (KeyValuePair<string, Instruction> kvp in wires)
+                kvp.Value.defined = false;
+            answer = evaluateData("a", 0);
+            Console.WriteLine("Answer for part 2 is " + answer);
         }
 
         public static ushort calc(Operation operation, ushort op1)
@@ -116,7 +120,7 @@ namespace day07
                 }
                 // We have a wire assigned to a wire
                 else if (groups[4].ToString() != "")
-                {	
+                {
 					Instruction inst = new Instruction(Operation.ASSIGN, groups[4].ToString(), dest);
 					wires [dest] = inst;
                 }
