@@ -1,15 +1,16 @@
-﻿<Properties StartupItem="day01/day01.csproj">
+﻿<Properties StartupItem="day11/day11.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="day08/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="day01/Program.cs">
     <Files>
-      <File FileName="day01/Program.cs" Line="1" Column="1" />
-      <File FileName="day02/Program.cs" Line="1" Column="1" />
-      <File FileName="day03/Program.cs" Line="1" Column="1" />
-      <File FileName="day04/Program.cs" Line="1" Column="1" />
-      <File FileName="day05/Program.cs" Line="1" Column="1" />
-      <File FileName="day06/Program.cs" Line="1" Column="1" />
-      <File FileName="day07/Program.cs" Line="187" Column="15" />
-      <File FileName="day08/Program.cs" Line="19" Column="43" />
+      <File FileName="day10/Program.cs" Line="15" Column="45" />
+      <File FileName="day08/Program.cs" Line="12" Column="67" />
+      <File FileName="day07/Program.cs" Line="78" Column="26" />
+      <File FileName="day06/Program.cs" Line="13" Column="4" />
+      <File FileName="day05/Program.cs" Line="10" Column="4" />
+      <File FileName="day04/Program.cs" Line="17" Column="57" />
+      <File FileName="day03/Program.cs" Line="3" Column="19" />
+      <File FileName="day02/Program.cs" Line="10" Column="10" />
+      <File FileName="day01/Program.cs" Line="11" Column="57" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
