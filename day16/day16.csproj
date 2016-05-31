@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D860CF83-3CC6-4561-B9A4-90DE1CB654C4}</ProjectGuid>
+    <ProjectGuid>{979BD31E-6A4D-4078-BDAF-E4DF72AF8F27}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>day15</RootNamespace>
-    <AssemblyName>day15</AssemblyName>
+    <RootNamespace>day16</RootNamespace>
+    <AssemblyName>day16</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
