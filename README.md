@@ -11,6 +11,6 @@ Advent of Code is a little programming puzzle game describing itself:
 
 Read more about Advent of Code [here](http://adventofcode.com/about). You can start playing by going to [this](http://adventofcode.com/) website and signing in with Github.
 
-## I really like to use Headings on unimportant READMEs nobody will ever series
+## Something else
 
-That's right. Also, my solution is still work in progress. I will update it only when I have a little extra time on my hands. It's all done in C# using Mono on Ubuntu. 
+I started out with Mono on Ubuntu, but switched back to Windows. Visual Studio is unfortunately much better than MonoDevelop.
